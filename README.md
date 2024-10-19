@@ -1,4 +1,4 @@
-# AWSImageRecognition
+# AWSImageRecognition(seec code section for better view)
 The Steps should be followed are as follows,
 1. Create two EC2 instances, one for Car and other for text recognition.
 **EC2_A creation steps:**
